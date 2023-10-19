@@ -1,0 +1,41 @@
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\bin\Debug\Cadastro.exe.config
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\bin\Debug\Cadastro.exe
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\bin\Debug\Cadastro.pdb
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\obj\Debug\Cadastro.FrmPrincipal.resources
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\obj\Debug\Cadastro.exe
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\obj\Debug\Cadastro.pdb
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\obj\Debug\Cadastro.FrmCadastrar.resources
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\obj\Debug\Cadastro.FrmPesquisar.resources
+E:\Trabalho\IFSP_2019\Disciplinas\LP2\Aula_CadastroPessoaGUI\Gabarito_CadastroPessoaGUI\CadastroPessoaGUI\Cadastro\obj\Debug\Cadastro.FrmExcluir.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\bin\Debug\Cadastro.exe.config
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\bin\Debug\Cadastro.exe
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\bin\Debug\Cadastro.pdb
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.FrmCadastrar.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.FrmExcluir.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.FrmPesquisar.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.FrmPrincipal.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.exe
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.pdb
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\bin\Debug\Cadastro.exe.config
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\bin\Debug\Cadastro.exe
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\bin\Debug\Cadastro.pdb
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.FrmCadastrar.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.FrmExcluir.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.FrmPesquisar.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.FrmPrincipal.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.exe
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AULA_LISTAS\Gabarito - Exercício Cadastro Pessoa (usando listas)\Cadastro\obj\Debug\Cadastro.pdb
