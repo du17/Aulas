@@ -39,41 +39,46 @@ namespace GIT
             // 
             // textBoxLetra
             // 
-            this.textBoxLetra.Location = new System.Drawing.Point(307, 93);
+            this.textBoxLetra.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxLetra.Location = new System.Drawing.Point(12, 234);
             this.textBoxLetra.Name = "textBoxLetra";
-            this.textBoxLetra.Size = new System.Drawing.Size(113, 20);
+            this.textBoxLetra.Size = new System.Drawing.Size(267, 29);
             this.textBoxLetra.TabIndex = 0;
             this.textBoxLetra.TextChanged += new System.EventHandler(this.textBoxLetra_TextChanged);
             // 
             // labelPalavraSecreta
             // 
-            this.labelPalavraSecreta.Location = new System.Drawing.Point(41, 218);
+            this.labelPalavraSecreta.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelPalavraSecreta.Location = new System.Drawing.Point(12, 22);
             this.labelPalavraSecreta.Name = "labelPalavraSecreta";
-            this.labelPalavraSecreta.Size = new System.Drawing.Size(130, 36);
+            this.labelPalavraSecreta.Size = new System.Drawing.Size(425, 70);
             this.labelPalavraSecreta.TabIndex = 1;
             this.labelPalavraSecreta.Text = "Palavra Secreta";
             // 
             // labelLetrasTentadas
             // 
-            this.labelLetrasTentadas.Location = new System.Drawing.Point(41, 135);
+            this.labelLetrasTentadas.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelLetrasTentadas.Location = new System.Drawing.Point(495, 126);
             this.labelLetrasTentadas.Name = "labelLetrasTentadas";
-            this.labelLetrasTentadas.Size = new System.Drawing.Size(130, 36);
+            this.labelLetrasTentadas.Size = new System.Drawing.Size(106, 83);
             this.labelLetrasTentadas.TabIndex = 2;
             this.labelLetrasTentadas.Text = "Tentativas";
+            this.labelLetrasTentadas.Click += new System.EventHandler(this.labelLetrasTentadas_Click);
             // 
             // labelErrosRestantes
             // 
-            this.labelErrosRestantes.Location = new System.Drawing.Point(41, 52);
+            this.labelErrosRestantes.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelErrosRestantes.Location = new System.Drawing.Point(471, 22);
             this.labelErrosRestantes.Name = "labelErrosRestantes";
-            this.labelErrosRestantes.Size = new System.Drawing.Size(130, 36);
+            this.labelErrosRestantes.Size = new System.Drawing.Size(130, 50);
             this.labelErrosRestantes.TabIndex = 3;
             this.labelErrosRestantes.Text = "Erros Restantes";
             // 
             // buttonTentarLetra
             // 
-            this.buttonTentarLetra.Location = new System.Drawing.Point(490, 93);
+            this.buttonTentarLetra.Location = new System.Drawing.Point(315, 225);
             this.buttonTentarLetra.Name = "buttonTentarLetra";
-            this.buttonTentarLetra.Size = new System.Drawing.Size(96, 27);
+            this.buttonTentarLetra.Size = new System.Drawing.Size(144, 52);
             this.buttonTentarLetra.TabIndex = 5;
             this.buttonTentarLetra.Text = "Tentativa";
             this.buttonTentarLetra.UseVisualStyleBackColor = true;
@@ -81,9 +86,9 @@ namespace GIT
             // 
             // buttonReiniciar
             // 
-            this.buttonReiniciar.Location = new System.Drawing.Point(637, 93);
+            this.buttonReiniciar.Location = new System.Drawing.Point(474, 225);
             this.buttonReiniciar.Name = "buttonReiniciar";
-            this.buttonReiniciar.Size = new System.Drawing.Size(96, 27);
+            this.buttonReiniciar.Size = new System.Drawing.Size(144, 52);
             this.buttonReiniciar.TabIndex = 6;
             this.buttonReiniciar.Text = "Reiniciar";
             this.buttonReiniciar.UseVisualStyleBackColor = true;
@@ -93,7 +98,7 @@ namespace GIT
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(655, 298);
             this.Controls.Add(this.buttonReiniciar);
             this.Controls.Add(this.buttonTentarLetra);
             this.Controls.Add(this.labelErrosRestantes);

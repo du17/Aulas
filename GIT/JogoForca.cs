@@ -101,5 +101,10 @@ namespace GIT
         {
             ReiniciarJogo();
         }
+
+        private void labelLetrasTentadas_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
