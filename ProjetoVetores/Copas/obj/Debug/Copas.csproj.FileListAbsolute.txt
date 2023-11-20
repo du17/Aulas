@@ -1,0 +1,8 @@
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetosVetores\Vetores\Copas\bin\Debug\Copas.exe.config
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetosVetores\Vetores\Copas\bin\Debug\Copas.exe
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetosVetores\Vetores\Copas\bin\Debug\Copas.pdb
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetosVetores\Vetores\Copas\obj\Debug\Copas.csproj.AssemblyReference.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetosVetores\Vetores\Copas\obj\Debug\Copas.csproj.SuggestedBindingRedirects.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetosVetores\Vetores\Copas\obj\Debug\Copas.csproj.CoreCompileInputs.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetosVetores\Vetores\Copas\obj\Debug\Copas.exe
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetosVetores\Vetores\Copas\obj\Debug\Copas.pdb

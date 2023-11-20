@@ -1,0 +1,8 @@
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetoVetores\VetorDentado\bin\Debug\VetorDentado.exe.config
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetoVetores\VetorDentado\bin\Debug\VetorDentado.exe
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetoVetores\VetorDentado\bin\Debug\VetorDentado.pdb
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetoVetores\VetorDentado\obj\Debug\VetorDentado.csproj.AssemblyReference.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetoVetores\VetorDentado\obj\Debug\VetorDentado.csproj.SuggestedBindingRedirects.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetoVetores\VetorDentado\obj\Debug\VetorDentado.csproj.CoreCompileInputs.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetoVetores\VetorDentado\obj\Debug\VetorDentado.exe
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\PRONTA\ProjetoVetores\VetorDentado\obj\Debug\VetorDentado.pdb
