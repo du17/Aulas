@@ -1,0 +1,8 @@
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Listas\Aula_Listas\Exemplo_04\obj\Debug\Exemplo_04.csproj.AssemblyReference.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Listas\Aula_Listas\Exemplo_04\obj\Debug\Exemplo_04.csproj.SuggestedBindingRedirects.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Listas\Aula_Listas\Exemplo_04\obj\Debug\Exemplo_04.csproj.CoreCompileInputs.cache
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Listas\Aula_Listas\Exemplo_04\bin\Debug\Exemplo_04.exe.config
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Listas\Aula_Listas\Exemplo_04\bin\Debug\Exemplo_04.exe
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Listas\Aula_Listas\Exemplo_04\bin\Debug\Exemplo_04.pdb
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Listas\Aula_Listas\Exemplo_04\obj\Debug\Exemplo_04.exe
+F:\IFSP_2023\1SEM\Disciplinas\LP2L2\Aulas\AulaListas\Listas\Aula_Listas\Exemplo_04\obj\Debug\Exemplo_04.pdb
