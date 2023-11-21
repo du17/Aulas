@@ -8,3 +8,14 @@ C:\Users\duda9\Source\Repos\GitTeste\GIT\obj\Debug\GIT.csproj.GenerateResource.c
 C:\Users\duda9\Source\Repos\GitTeste\GIT\obj\Debug\GIT.csproj.CoreCompileInputs.cache
 C:\Users\duda9\Source\Repos\GitTeste\GIT\obj\Debug\GIT.exe
 C:\Users\duda9\Source\Repos\GitTeste\GIT\obj\Debug\GIT.pdb
+C:\Users\duda9\Source\Repos\Aulas\GIT\bin\Debug\GIT.exe.config
+C:\Users\duda9\Source\Repos\Aulas\GIT\bin\Debug\GIT.exe
+C:\Users\duda9\Source\Repos\Aulas\GIT\bin\Debug\GIT.pdb
+C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.csproj.AssemblyReference.cache
+C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.ContaBancaria.CaixaDeBanco.resources
+C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.JogoForca.resources
+C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.Properties.Resources.resources
+C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.csproj.GenerateResource.cache
+C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.csproj.CoreCompileInputs.cache
+C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.exe
+C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.pdb

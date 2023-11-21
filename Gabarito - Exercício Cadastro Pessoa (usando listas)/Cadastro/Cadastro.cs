@@ -20,8 +20,6 @@ namespace Cadastro
 
         //-----------------------------------------------------------------------------------
 
-        //fdfmuykuujkidopgigjietwjopgoup
-
 
         //Realiza o cadastro de uma pessoa
         public void CadastrarPessoa(Pessoa pessoa)

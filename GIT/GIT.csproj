@@ -46,15 +46,63 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="JogoForca.cs">
+    <Compile Include="CadastroConta\Cadastrar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="JogoForca.Designer.cs">
+    <Compile Include="CadastroConta\Cadastrar.Designer.cs">
+      <DependentUpon>Cadastrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroConta\Cadastro.cs" />
+    <Compile Include="CadastroConta\Excluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroConta\Excluir.Designer.cs">
+      <DependentUpon>Excluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroConta\Pesquisar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroConta\Pesquisar.Designer.cs">
+      <DependentUpon>Pesquisar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroConta\Pessoa.cs" />
+    <Compile Include="CadastroConta\TelaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroConta\TelaInicial.Designer.cs">
+      <DependentUpon>TelaInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContaBancaria\CaixaDeBanco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContaBancaria\CaixaDeBanco.Designer.cs">
+      <DependentUpon>CaixaDeBanco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContaBancaria\ContaBancariaClass.cs" />
+    <Compile Include="JogoForca\JogoForca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JogoForca\JogoForca.Designer.cs">
       <DependentUpon>JogoForca.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="JogoForca.resx">
+    <EmbeddedResource Include="CadastroConta\Cadastrar.resx">
+      <DependentUpon>Cadastrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroConta\Excluir.resx">
+      <DependentUpon>Excluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroConta\Pesquisar.resx">
+      <DependentUpon>Pesquisar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroConta\TelaInicial.resx">
+      <DependentUpon>TelaInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContaBancaria\CaixaDeBanco.resx">
+      <DependentUpon>CaixaDeBanco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JogoForca\JogoForca.resx">
       <DependentUpon>JogoForca.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

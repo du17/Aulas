@@ -16,7 +16,7 @@ namespace GIT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new JogoForca());
+            Application.Run(new ContaBancaria.CaixaDeBanco());
         }
     }
 }
