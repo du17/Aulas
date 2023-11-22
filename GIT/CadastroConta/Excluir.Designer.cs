@@ -39,25 +39,28 @@ namespace GIT.CadastroConta
             this.lblNome = new System.Windows.Forms.Label();
             this.lblCPF = new System.Windows.Forms.Label();
             this.lblPesquisar = new System.Windows.Forms.Label();
+            this.btnPesquisar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(355, 147);
+            this.btnCancelar.Location = new System.Drawing.Point(354, 174);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(143, 43);
             this.btnCancelar.TabIndex = 19;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // btnExcluir
             // 
-            this.btnExcluir.Location = new System.Drawing.Point(355, 85);
+            this.btnExcluir.Location = new System.Drawing.Point(354, 112);
             this.btnExcluir.Name = "btnExcluir";
             this.btnExcluir.Size = new System.Drawing.Size(143, 43);
             this.btnExcluir.TabIndex = 18;
             this.btnExcluir.Text = "Excluir";
             this.btnExcluir.UseVisualStyleBackColor = true;
+            this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
             // 
             // txtPesquisar
             // 
@@ -123,11 +126,22 @@ namespace GIT.CadastroConta
             this.lblPesquisar.TabIndex = 10;
             this.lblPesquisar.Text = "CPF :";
             // 
+            // btnPesquisar
+            // 
+            this.btnPesquisar.Location = new System.Drawing.Point(354, 52);
+            this.btnPesquisar.Name = "btnPesquisar";
+            this.btnPesquisar.Size = new System.Drawing.Size(143, 43);
+            this.btnPesquisar.TabIndex = 20;
+            this.btnPesquisar.Text = "Pesquisar";
+            this.btnPesquisar.UseVisualStyleBackColor = true;
+            this.btnPesquisar.Click += new System.EventHandler(this.btnPesquisar_Click);
+            // 
             // Excluir
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(529, 234);
+            this.Controls.Add(this.btnPesquisar);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnExcluir);
             this.Controls.Add(this.txtPesquisar);
@@ -157,5 +171,6 @@ namespace GIT.CadastroConta
         private System.Windows.Forms.Label lblNome;
         private System.Windows.Forms.Label lblCPF;
         private System.Windows.Forms.Label lblPesquisar;
+        private System.Windows.Forms.Button btnPesquisar;
     }
 }

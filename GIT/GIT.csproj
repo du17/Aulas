@@ -79,6 +79,13 @@
       <DependentUpon>CaixaDeBanco.cs</DependentUpon>
     </Compile>
     <Compile Include="ContaBancaria\ContaBancariaClass.cs" />
+    <Compile Include="ContaExeção\ContaBancaria.cs" />
+    <Compile Include="ContaExeção\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContaExeção\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
     <Compile Include="JogoForca\JogoForca.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -101,6 +108,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ContaBancaria\CaixaDeBanco.resx">
       <DependentUpon>CaixaDeBanco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContaExeção\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="JogoForca\JogoForca.resx">
       <DependentUpon>JogoForca.cs</DependentUpon>

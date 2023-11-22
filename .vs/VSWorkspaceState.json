@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GIT",
+    "\\GIT\\CadastroConta"
   ],
-  "SelectedNode": "\\AulaExcecao.sln",
+  "SelectedNode": "\\GIT\\CadastroConta\\Excluir.cs",
   "PreviewInSolutionExplorer": false
 }
