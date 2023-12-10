@@ -76,6 +76,19 @@ namespace GIT.desespero
                 sb.Append("Saldo insuficiente");
                 sb.AppendLine();
                 sb.AppendFormat("O saldo atual ({0:C}) é insuficiente ", erro.getSaldoAtual());
+                sb.AppendFormat("para esse saque ({0:C)}", erro.getValorSaque());
+
+                MessageBox.Show(sb.ToString());
+                txtValor.Clear();
+            }
+            catch(Exception erro)
+            {
+                StringBuilder sb = new StringBuilder();
+                sb.Append("Tipo da excecao" + GetType());
+                sb.AppendLine();
+                sb.Append(erro.Message);
+
+                MessageBox.Show(sb.ToString());
             }
         }
     }
