@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\GIT",
-    "\\GIT\\CadastroConta"
+    "\\GIT\\CadastroConta",
+    "\\GIT\\ContaExeção"
   ],
-  "SelectedNode": "\\GIT\\CadastroConta\\Excluir.cs",
+  "SelectedNode": "\\GIT\\ContaExeção\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -19,3 +19,9 @@ C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.csproj.GenerateResource.cach
 C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.csproj.CoreCompileInputs.cache
 C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.exe
 C:\Users\duda9\Source\Repos\Aulas\GIT\obj\Debug\GIT.pdb
+C:\Users\duda9\source\repos\Aulas\GIT\obj\Debug\GIT.CadastroConta.Cadastrar.resources
+C:\Users\duda9\source\repos\Aulas\GIT\obj\Debug\GIT.CadastroConta.Excluir.resources
+C:\Users\duda9\source\repos\Aulas\GIT\obj\Debug\GIT.CadastroConta.Pesquisar.resources
+C:\Users\duda9\source\repos\Aulas\GIT\obj\Debug\GIT.CadastroConta.TelaInicial.resources
+C:\Users\duda9\source\repos\Aulas\GIT\obj\Debug\GIT.ContaExeção.Form1.resources
+C:\Users\duda9\source\repos\Aulas\GIT\obj\Debug\GIT.desespero.Conta.resources

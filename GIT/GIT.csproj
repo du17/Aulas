@@ -86,6 +86,14 @@
     <Compile Include="ContaExeção\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="desespero\Conta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="desespero\Conta.Designer.cs">
+      <DependentUpon>Conta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="desespero\ContaBancaria.cs" />
+    <Compile Include="desespero\SaldoInsuficienteException.cs" />
     <Compile Include="JogoForca\JogoForca.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -111,6 +119,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ContaExeção\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="desespero\Conta.resx">
+      <DependentUpon>Conta.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="JogoForca\JogoForca.resx">
       <DependentUpon>JogoForca.cs</DependentUpon>

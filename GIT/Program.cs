@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using GIT.desespero;
 
 namespace GIT
 {
@@ -16,7 +17,7 @@ namespace GIT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ContaBancaria.CaixaDeBanco());
+            Application.Run(new Conta());
         }
     }
 }
