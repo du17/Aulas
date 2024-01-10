@@ -8,20 +8,19 @@ using System.Threading.Tasks;
 public class Funcionario{
 
     public string nome, cpf;
-    public int idade, numInc, hora;
-    public bool ponto;
+    public int idade, numInc, hora, minuto;
 
-    public Funcionario(string nome, string cpf, int idade, int numInc, int hora, bool ponto){
+    public Funcionario(string nome, string cpf, int idade, int numInc){
 
         this.nome = nome;
         this.cpf = cpf;
         this.idade = idade;
         this.numInc = numInc;
-        this.hora = hora;
-        this.ponto = ponto;
     }
 
-    public void mostrarInformacoes(){
+    public void apresentacao(){
+
+        Console.WriteLine("----------Bem-Vindo!!!----------\n");
         
         Console.WriteLine("----------Informações do Funcionario---------");
         Console.WriteLine("Nome: " + this.nome + "\n");
@@ -31,43 +30,18 @@ public class Funcionario{
 
     }
 
-    public void apresentacao(){
+    public void trabalhar(string funcao){
 
-        Console.WriteLine("----------Bem-Vindo!!!----------");
-
-    }
-
-    public void trabalhar(){
-
-        this.hora = hora + 2;
-
-            if(hora <= 9){
-
-                Console.WriteLine("Horario: " + this.hora + " -> Hora de Trabalhar!!");
-
-            }
-
-            if(hora >= 18){
-
-                 Console.WriteLine("Horario: " + this.hora + " -> Passou da hora do expediente!!!");
-
-            }
+        Console.WriteLine("Trabalhando em " + funcao);
 
     }
 
-    public void baterPonto(){
+    public void baterPonto(int hora, int minuto){
 
-        if(ponto == true){
+        this.hora = hora;
+        this.minuto = minuto;
 
-            Console.WriteLine("\nBateu o ponto");
-
-        }
-
-        else{
-
-            Console.WriteLine("\nNão bateu o ponto");
-
-        }
+        Console.WriteLine("Ponto batido às: " + hora + ":" + minuto);
 
     }
 
@@ -83,28 +57,26 @@ public class Tarefa{
 
         //entrada
 
-        Funcionario funcionario1 = new Funcionario("Jussara", "45555555", 45, 45795, 7, false);
-        Funcionario funcionario2 = new Funcionario("Ulysses", "77777777", 22, 55454, 18, true);
+        Funcionario funcionario1 = new Funcionario("Jussara", "45555555", 45, 45795);
+        Funcionario funcionario2 = new Funcionario("Ulysses", "77777777", 22, 55454);
 
         //informações
 
         funcionario1.apresentacao();
+        //string funcao = Console.ReadLine();
+        funcionario1.trabalhar("desenvolvendo o retario");//(funcao)
         Console.WriteLine("\n");
 
-        funcionario1.mostrarInformacoes();
-        funcionario1.trabalhar();
-
-        funcionario1.baterPonto();
+        funcionario1.baterPonto(19, 12);
 
         Console.WriteLine("\n");
 
         funcionario2.apresentacao();
+
+        funcionario2.trabalhar("fazendo nada");
         Console.WriteLine("\n");
 
-        funcionario2.mostrarInformacoes();
-        funcionario2.trabalhar();
-
-        funcionario2.baterPonto();
+        funcionario2.baterPonto(12, 00);
 
     }
 
