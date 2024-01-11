@@ -5,3 +5,24 @@ PATH %path%;C:\Windows\Microsoft.NET\Framework64\v4.0.30319
 csc "nome do arquivo".cs
 
 csc "nome do arquivo".cs && "nome do arquivo"
+
+----- quando for fazer herança só os comandos abaixo -----
+
+dotnet new console //cria um novo projeto, pra herança
+//cd .. -> volta uma pasta
+
+nome da classe igual ao arquivo -> opcional
+
+rodar -> dotnet run
+
+fazer arquivo e classe Pessoa, aluno, professor e funcionario
+
+-> codigos pra herança
+
+public class Aluno : Pessoa{
+
+      Aluno a1 = new Aluno();
+
+      a1.nome = "nome";
+      a1."metodo"();
+}
