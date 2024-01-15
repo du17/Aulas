@@ -10,7 +10,7 @@ public class HelloWorld
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine ("-------abrindo contas--------\n");
+        Console.WriteLine ("---------abrindo contas--------\n");
         Conta c = new Conta();
         
         c.numero = 1;
